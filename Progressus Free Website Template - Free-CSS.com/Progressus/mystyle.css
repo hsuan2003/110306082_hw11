@@ -1,0 +1,43 @@
+#body.home {
+
+}
+article{
+  border: 1px solid blue;
+
+  
+}
+.left{
+  margin-left: 150px;
+  float: left;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.right{
+  margin-right: 150px;
+  float: right;
+  margin-top: 50px;
+}
+
+h1 {color: blue; front-size: 50px;}
+h2 {font-weight:bold ; color: navy; font-size: 25pt;}
+h3{font-weight: bold; color: red; font-family: cursive;}
+    
+h3 em{
+  text-decoration: line-through;
+}
+h1, em{
+  text-decoration: underline;
+}
+span{color: gray; border: 1px solid black;}
+.extra span{color: inherit;}
+/*.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+/*.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

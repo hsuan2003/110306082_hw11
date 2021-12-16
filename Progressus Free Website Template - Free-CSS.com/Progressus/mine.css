@@ -1,0 +1,19 @@
+article{
+	text-decoration: none;
+}
+.left{
+	margin-left: 50%;
+}
+.picture2{
+	border: 2px solid green; 
+	width: 40%; 
+	height: 30%; 
+	margin-top: 50px; 
+	margin-bottom: 50px;
+}
+.style2{
+	border: 2px solid blue;
+	text-align: center; 
+	background-image:  url('back.jpg');
+	background_position: center center;
+}
